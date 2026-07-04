@@ -1,4 +1,4 @@
-# Исследование эффективности прогрессивной самодистилляции знаний при обучении свёрточных нейронных сетей ConvNeXt в задачах мелкозернистой классификации [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ss-zerocat/article_convnext_psd/blob/main/src/article_convnext_psd.ipynb)
+# Исследование эффективности прогрессивной самодистилляции знаний при обучении свёрточных нейронных сетей ConvNeXt в задачах мелкозернистой классификации [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ss-zerocat/article_convnext_psd/blob/main/code/article_convnext_psd.ipynb)
 
 Этот репозиторий содержит исходный код и инструкции для воспроизведения результатов исследования архитектуры прогрессивной самодистилляции (PSD) на базе ConvNeXt согласно статье [Learn More for Food Recognition via Progressive Self-Distillation](https://doi.org/10.1609/aaai.v37i3.25501).
 
